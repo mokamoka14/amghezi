@@ -1,2 +1,2 @@
 # amghezi
-[Jadi's Github Course] Just a test project for a tutorial 
+[Jadi's Github Course] Yek gav daram amghezi
